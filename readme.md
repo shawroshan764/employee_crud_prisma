@@ -1,4 +1,11 @@
-## Installation
+## Installtion
+##### Installing node modules
+`npm install`
+
+##### Running node project
+`npm run dev`
+
+## Commands used in projects
 ##### Initialize Node project
 
 `npm init -y` 
@@ -19,7 +26,10 @@
 ##### Initialize new prisma project inside the current project
 `npx prisma init `
 
+##### Using prisma studio
+`npx prisma studio `
 
-
+##### Create table in database, do migration
+`npx prisma migrate dev `
 
 
