@@ -1,4 +1,4 @@
-## Installtion
+## Installation
 ##### Installing node modules
 `npm install`
 
