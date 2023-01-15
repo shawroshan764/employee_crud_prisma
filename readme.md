@@ -15,3 +15,11 @@
 
 ##### Installing prisma client in dependency
 `npm i @prisma/client `
+
+##### Initialize new prisma project inside the current project
+`npx prisma init `
+
+
+
+
+
