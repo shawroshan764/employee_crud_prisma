@@ -1,2 +1,2 @@
 ### Initializng Prisma CLI
-``` npm prisma init
+npm prisma init
