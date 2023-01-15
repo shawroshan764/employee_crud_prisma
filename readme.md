@@ -10,11 +10,8 @@
 ##### Installing nodemon in Dev Dependency
 `npm install -D nodemon`
 
-## Folder Structure
+##### Installing prisma CLI in Dev dependency
+`npm i -D prisma `
 
-node_modules<br>
-prisma<br>
-    migration<br>
-    schema.prisma<br>
-route<br>
-    api_routes.js <br>
+##### Installing prisma client in dependency
+`npm i @prisma/client `
