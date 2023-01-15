@@ -1,2 +1,4 @@
-### Initializng Prisma CLI
-npm prisma init
+## Installation
+##### Initialize Node project
+
+`npm init -y` 
